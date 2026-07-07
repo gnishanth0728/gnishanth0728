@@ -1,43 +1,11 @@
 ```markdown
 # Hi there, I'm Nishanth 👋
 
-## Senior Software Engineer | Java | Spring Boot | Python | Kubernetes | AWS
+## Senior Software Engineer
 
 I'm a Lead software engineer passionate about backend development, cloud-native technologies, DevOps, and system design. I enjoy building scalable applications and continuously learning how software works—from Linux processes to distributed systems and Kubernetes internals.
 
 ---
-
-## 🛠️ Tech Stack
-
-### Languages
-- Java
-- Python
-- SQL
-- Bash
-
-### Backend
-- Spring Boot
-- REST APIs
-- JPA / Hibernate
-- Maven
-
-### DevOps & Cloud
-- Docker
-- Kubernetes
-- Terraform
-- AWS
-- GitHub Actions
-- Jenkins
-
-### Databases
-- PostgreSQL
-- MySQL
-
-### Tools
-- Git
-- GitHub
-- Linux
-- VS Code
 
 ## 📈 GitHub Stats
 
